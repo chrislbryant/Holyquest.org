@@ -11,7 +11,7 @@ We will use Python, Postgres, Javascript, CSS, and HTML.
 
 Holyquest is hosted on a Raspberry Pi running Daphne, Docker, and Redi's.
 
-To manage this project we are using Jira (Scrum Project), Bitbucket, Confluence, and VSCode all integrated together for a smooth development process. The project utilize
+To manage this project we are using Jira (Scrum Project), Bitbucket, Confluence, and VSCode all integrated together for a smooth development process. The projects repository follows the layout in the picture below.
 
 Workflow:
 * In Jira add items to backlog
