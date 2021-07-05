@@ -26,4 +26,4 @@ We use Gmaster to visualize our Bitbucket Repository.
 
 This code is located in a private BitBucket repository and currently in development. If you are interested in seeing the workflow and repository I would be happy to demonstrate. A link to the game will be posted once the project is complete. 
 
-![GitModel]()
+![GitModel](https://github.com/chrislbryant/Holyquest.org/blob/main/GitModel.PNG)
